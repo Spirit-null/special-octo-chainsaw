@@ -1,0 +1,2 @@
+bottoken = OTgyMzQzNjczMDY2OTcxMjE3.Glb4Gb.kJg7zK0Xghy1FuzD0lSRWubUSNMDMFeIYoLXfI
+botid =  1387213333131
